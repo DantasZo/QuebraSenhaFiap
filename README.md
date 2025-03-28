@@ -40,7 +40,9 @@ Compile e Execute o Projeto: Compile e execute o projeto no Visual Studio.
 
 Exemplo de Uso
 Ao executar o projeto, a aplicação irá gerar sequências aleatórias e enviá-las para a API configurada. As tentativas e chaves usadas serão gravadas em arquivos de texto para referência futura.
+
 Tentativa: A1b2 - Resultado: Falha. Continuando... 
+
 Tentativa: C3d4 - Resultado: Sucesso! Sequência correta encontrada: C3d4~
 
 Agradecimento: Vale lembrar que o projeto foi proposto na aula inaugural da fiap, em minha pós graduação, obrigado Alura e Fiap :) 
