@@ -6,7 +6,7 @@ Este projeto é uma aplicação C# que gera sequências aleatórias e as envia p
 Funcionalidades
 Geração de Sequências Aleatórias: Gera sequências de 4 caracteres, incluindo letras e números.
 
-Envio para API Local: As sequências são enviadas para uma API local configurável, encontrada no repositório: (preciso criar o repo)
+Envio para API Local: As sequências são enviadas para uma API local configurável, encontrada no repositório: [(API)](https://github.com/DantasZo/ApiDesafio)
 
 Verificação de Sucesso ou Falha: Verifica se a sequência foi aceita ou rejeitada pela API.
 
