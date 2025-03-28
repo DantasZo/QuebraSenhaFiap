@@ -28,10 +28,14 @@ Abra no Visual Studio 2022: Abra o projeto no Visual Studio 2022.
 
 Configure os Caminhos de Arquivos:
 var pastaTentativas = @"Caminho/Para/Tentativas";
+
 var pastaChaves = @"Caminho/Para/Chaves";
+
 Configure a URL da API e o Grupo:
 var url = "http://sua-api-local.com";
+
 var grupo = "SeuGrupo";
+
 Compile e Execute o Projeto: Compile e execute o projeto no Visual Studio.
 
 Exemplo de Uso
